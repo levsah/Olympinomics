@@ -1,20 +1,41 @@
-This is your group repo for your final project for COGS108.
+🏅 Olympinomics
+Analyzing How Economic and Geographic Factors Impact Olympic Success
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+📌 About the Project
+Olympinomics is a data science project exploring how a country's economic growth, population, and regional location affect its Olympic medal performance. Inspired by a love of economics and global sports, we dive into historical Olympic data and global GDP trends to uncover what drives nations to the podium.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+🔍 Research Questions
+Does a nation’s GDP growth correlate with Olympic success?
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+Is geographic region (e.g., continent) a significant factor?
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+What socioeconomic variables best predict medal performance?
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
+📈 Key Takeaways
+A strong positive correlation exists between GDP growth and Olympic medal counts.
 
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
+Regional location showed no statistically significant impact via permutation testing.
 
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
+Economic investment in sports is a more reliable predictor of success than geography.
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+📊 Datasets Used
+Summer Olympic Medals (1896–2020)
+
+Global GDP by Country (1999–2022)
+
+2024 Olympic Medals vs GDP
+
+🛠️ Tools & Libraries
+Python (Pandas, NumPy, Scikit-learn)
+
+Matplotlib, Seaborn, Plotly
+
+Permutation tests & Linear Regression
+
+👥 Contributors
+Levy Sahoo
+
+Keenan Serrao
+
+Maya Ammar
+

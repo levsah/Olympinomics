@@ -1,9 +1,9 @@
 # 🏅 Olympinomics  
 **Analyzing How Economic and Geographic Factors Impact Olympic Success**
-**To view the project, click on the .ipynb file that begins with 'Final'**
 
-## 📌 About the Project  
+## 📌 About (accessing) the Project  
 **Olympinomics** is a data science project exploring how a country's **economic growth**, **population**, and **regional location** affect its **Olympic medal performance**. Inspired by a love of economics and global sports, we dive into historical Olympic data and global GDP trends to uncover what drives nations to the podium.
+- **To view the project, click on the .ipynb file that begins with 'Final'**
 
 ## 🔍 Research Questions
 - Does a nation’s **GDP growth** correlate with Olympic success?
